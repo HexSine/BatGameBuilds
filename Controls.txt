@@ -1,0 +1,7 @@
+Controller : Keyboard, Xbox, Ps4
+Move : WASD, Left Stick
+Move Camera : Arrow Keys, Right Stick
+Jump : Space, A, X
+Dash/Air Dash : LShift, RBumper, R1
+Enter Dialigue Mode : N/A, RTrigger, R2
+Reset Camera : N/A, LTrigger, L2
